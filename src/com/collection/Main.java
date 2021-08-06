@@ -3,7 +3,7 @@ package com.collection;
 public class Main {
     public static void main(String[] args) throws InterruptedException {
 
-        for (int i=0; i<6; i++){
+        for (int i=0; i<9; i++){
             System.out.println("Batch 9 Jekining");
             Thread.sleep( 1000 );
         }
